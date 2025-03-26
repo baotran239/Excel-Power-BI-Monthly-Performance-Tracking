@@ -1,1 +1,2 @@
-# Excel-Power-BI-User-Behaviour-Analysis
+# I. Introduction
+The projects involves building a dashboard for customer demographics and transaction behaviour
