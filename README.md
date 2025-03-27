@@ -34,7 +34,7 @@ To access to the dataset, please refer to the [link](https://docs.google.com/spr
 ## Northstar Metric
 | **Question**                          | **Answers**                                                                                               |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **What VALUE you want to measure?**    | 1. **Customer**  <br> 2. **Profit**  <br> 3. **Order**                                                   |
+| **What VALUE you want to measure?**    | **1. Customer**  <br> **2. Profit**  <br> **3. Order**                                                   |
 | **WHEN the value DELIVERY SUCCESS?**   | When they reach their maximum value                                                                      |
 | **WHY do you choose this metric?**     | 1. To divide customers into different groups based on their transaction behavior, combined with their demographics to tailor suitable strategies for each customer group  <br> 2. To track the company's health via business growth and profitability  <br> 3. To identify customer behavior and transaction trends |
 
