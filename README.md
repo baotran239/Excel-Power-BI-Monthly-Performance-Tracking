@@ -29,7 +29,7 @@ To access to the dataset, please refer to the [link](https://docs.google.com/spr
 | **Table Type** | **Details** |
 |----------------|----------|
 | **Fact Table** | Data Transaction |
-| **Dim Table** | Data User Info, Data Commission |
+| **Dim Table** | Data User Info, Data Commission, RFMTable |
 
 ## Northstar Metric
 | **Question**                          | **Answers**                                                                                               |
