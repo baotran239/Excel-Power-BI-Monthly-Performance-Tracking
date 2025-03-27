@@ -43,6 +43,17 @@ To access to the dataset, please refer to the [link](https://docs.google.com/spr
 |--------------------------|-------------|-------------|-------------|-------------|-------------|------------------------|
 | **Dimension Data Group** | Time        | Location    | Age         | Gender      | Merchant    | Purchase Status        |
 
+# IV. Dashboard
+### Data modeling
+![Image](https://github.com/user-attachments/assets/48a7714f-0df6-406b-ac69-84f9f90b116c)
+
+### Dashboard
+<img width="1073" alt="Image" src="https://github.com/user-attachments/assets/e908f491-d409-4aaa-b62c-d4c21aba2f22" />
+
+# V. Insights
+
+
+# VI. Recommendations
 
 
 
