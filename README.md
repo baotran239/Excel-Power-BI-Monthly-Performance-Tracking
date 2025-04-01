@@ -51,7 +51,7 @@ To access to the dataset, please refer to the [link](https://docs.google.com/spr
 <img width="1073" alt="Image" src="https://github.com/user-attachments/assets/e908f491-d409-4aaa-b62c-d4c21aba2f22" />
 
 # V. Insights
-
+- 
 
 # VI. Recommendations
 
