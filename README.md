@@ -50,12 +50,16 @@ To access to the dataset, please refer to the [link](https://docs.google.com/spr
 ### Dashboard
 <img width="1073" alt="Image" src="https://github.com/user-attachments/assets/e908f491-d409-4aaa-b62c-d4c21aba2f22" />
 
-# V. Insights
-- 
-
-# VI. Recommendations
-
-
-
+# V. Insights & Recommendations
+| **Insights** | **Recommendations** |
+|-------------|---------------------|
+| While **total order volume** is high, the **total profit per order** might be relatively low, suggesting either **low-margin products** or **high operational costs**. | **Optimize pricing strategies** to improve **profit margins** by identifying and promoting **high-margin products** through **strategic pricing, upselling, and promotions**. |
+| The business experienced **seasonal fluctuations**, with a notable **peak in September**. | **Analyze seasonal trends** to launch **targeted marketing campaigns** before **peak months** and introduce **limited-time discounts** or **product bundles** in **low-revenue months** to stimulate sales. |
+| The largest **customer segments** are **Potential Loyalists (4.5K)** and **At Risk (3.3K)**. | **Engage Potential Loyalists** by offering **loyalty programs** and **personalized discounts** to convert them into **repeat buyers**, while implementing **win-back campaigns** for **At Risk customers** to prevent **churn**. |
+| **Viettel (7.2M VND)** and **Mobifone (5.8M VND)** are the **top-performing merchants**, while **Gmobile (0M VND)** has negligible contribution. | **Strengthen partnerships** with **top-performing merchants** such as **Viettel** and **Mobifone** by negotiating **exclusive deals** and increasing **promotions**, while **reassessing low-performing merchants** like **Gmobile** to determine their **viability**. |
+| **Young adults (23-32)** are the **most profitable customer base**: The **23-27 age group** contributes the **highest profit (4.5M VND)**, followed by **28-32 (4.1M VND)**. The **lowest spending** comes from **18-22 (1.6M VND)** and **37+ age groups**. | **Focus marketing efforts** on the **23-32 age group**, which generates the **highest profit**, by leveraging **social media advertising** and **influencer collaborations**, while offering **student discounts** or **budget-friendly product bundles** to attract **younger consumers (18-22 age group)**. |
+| **Women** are the **dominant purchasing group**: **Female customers (58.15%)** contribute **more orders** than **males (41.85%)**. | **Tailor marketing campaigns** toward **female customers**, who make up the **largest purchasing group**, by promoting **relevant products** and **messaging** that align with their **buying behaviors**. |
+| **Ho Chi Minh City** is the **strongest market (58.98%)**, followed by **Hanoi (30.5%)**. | **Expand market penetration** in **Hanoi** and other **underperforming regions** by introducing **location-based promotions** and increasing **brand awareness campaigns** in these areas. |
+| **Resellers (Mua hộ)** drive most of the **revenue (82.96%)**. | **Enhance reseller relationships** by providing **bulk discounts** and **loyalty incentives** to encourage **repeat purchases**, while also creating **exclusive benefits** for **direct consumers** to increase **self-purchase engagement**. |
 
 
