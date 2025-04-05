@@ -4,8 +4,8 @@
 The projects involves using Excel to quickly process sales data of a particular month and creating a Power BI dashboard to track the monthly performance of a Top-up service for an e-wallet company.
 
 ### **Note:**
-- For Excel processing, please refer to the attached file named ''.
-- For Power BI dashboard and analysis, please refer to both the attached file named '' and the following parts. 
+- For Excel processing, please refer to the Excel file attach above.
+- For Power BI dashboard and analysis, please refer to the following parts. 
 
 ## II. Dataset
 To access to the dataset, please refer to the [link](https://docs.google.com/spreadsheets/d/188usb3WqsBDGYeB1nSsc2uamqaoVIEKY/edit?gid=231710739#gid=231710739)
